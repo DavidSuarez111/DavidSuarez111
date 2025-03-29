@@ -11,7 +11,19 @@
   Hola soy David. ¡Bienvenido a mi Github!
   <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<!--
+
+---
+ <div id="header" align="left">
+
+### :man_technologist: Sobre mí :
+Mi educación superior es en biotecnología molecular e inmunología pero la natural gran cantidad de datos y mi pasión por entenderlos me llevó hacia la exploración de la ciencia de datos. 
+En varios lenguajes
+![nervous](https://github.com/user-attachments/assets/f0faaf1c-2c43-40ad-b5fa-d5fb2647dacf)
+ 
+Apasionada de la tecnología y disfrutando de una transición laboral al Data Analytics <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+  
+  <!--
 **DavidSuarez111/DavidSuarez111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
