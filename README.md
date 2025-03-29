@@ -1,4 +1,7 @@
 ## Hola soy David. ¡Bienvenido a mi Github! 👋
+<div id="header" align="center">
+  <img decoding="async" src="https://github.com/DavidSuarez111/DavidSuarez111/blob/main/Gray%20modern%20professional%20data%20analysis%20Linkedln%20banner.jpg" width="800"/>
+</div>
 
 <!--
 **DavidSuarez111/DavidSuarez111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
