@@ -17,7 +17,8 @@
 
 ### :man_technologist: Sobre mí :
 Mi educación superior es en biotecnología molecular e inmunología pero la natural gran cantidad de datos y mi pasión por entenderlos me llevó hacia la exploración de la ciencia de datos. 
-En varios lenguajes <img src="https://github.com/user-attachments/assets/f0faaf1c-2c43-40ad-b5fa-d5fb2647dacf" alt="nervous" width="20" style="vertical-align: middle;" />
+
+En ... varios lenguajes <img src="https://github.com/user-attachments/assets/f0faaf1c-2c43-40ad-b5fa-d5fb2647dacf" alt="nervous" width="20" style="vertical-align: middle;" />
 
 * :blue_book: Actualmente estudio  y practico :computer: SQL y Python. Y quiero aprender Power Bi. Hace 1 año inicié una transición formal proactiva y aplicativa de la programación y ya cuento con varios proyectos exitosos.
 
