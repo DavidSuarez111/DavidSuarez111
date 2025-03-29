@@ -17,7 +17,7 @@
 
 ### :man_technologist: Sobre mí :
 Mi educación superior es en biotecnología molecular e inmunología pero la natural gran cantidad de datos y mi pasión por entenderlos me llevó hacia la exploración de la ciencia de datos. 
-En varios lenguajes <img src="https://github.com/user-attachments/assets/f0faaf1c-2c43-40ad-b5fa-d5fb2647dacf" alt="nervous" width="50" style="vertical-align: middle;" />
+En varios lenguajes <img src="https://github.com/user-attachments/assets/f0faaf1c-2c43-40ad-b5fa-d5fb2647dacf" alt="nervous" width="30" style="vertical-align: middle;" />
  
 Apasionada de la tecnología y disfrutando de una transición laboral al Data Analytics <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
