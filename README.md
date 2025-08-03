@@ -24,7 +24,7 @@ En ... varios lenguajes <img src="https://github.com/user-attachments/assets/f0f
 
 * Algunos de los temas que manejo con fluidez son importe de datos, analisis exploratorio de datos, estadística, visualización y aprendizaje automatizado. 
 
-* :heartbeat: Además, me interesa particularmente mucho el generar flujos de trabajo lógicos que automaticen o eficienticen el análisis o generación de un servicio. En R he tenido éxito aplicando funciones propias y generando un análisis de la expresión genética total o transcriptómica de las cepas de la bacteria más problemática para la humanidad (Publicado en Frontiers of Immunology) y sklearn Pipelines de python permite hacer lo mismo. 
+* :heartbeat: Además, me interesa particularmente mucho el generar flujos de trabajo lógicos que automaticen o eficienticen el análisis o generación de un servicio. En R he tenido éxito aplicando funciones propias y generando un análisis de la expresión genética total o transcriptómica de las cepas de la bacteria más problemática para la humanidad (Publicación en proceso) y sklearn Pipelines de python permite hacer lo mismo. 
 
 Estoy entusiasmado de generar análisis y/o aplicaciones relevantes para la bioinformática o industria. 
 * :mailbox: ¿Quieres conectar conmigo?  [![Linkedin Badge](https://img.shields.io/badge/-David-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/david-suarez-garza)
