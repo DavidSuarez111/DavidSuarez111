@@ -45,7 +45,13 @@ Estoy entusiasmado de generar análisis y/o aplicaciones relevantes para la bioi
  <img decoding="async" src="https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="matplotlib"/>
 </a>
 <a>
+ <img decoding="async" src="https://img.shields.io/badge/seaborn-4C72B0?style=for-the-badge&logo=Python&logoColor=white" alt="seaborn"/>
+</a>
+<a>
  <img decoding="async" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+</a>
+<a>
+ <img decoding="async" src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="streamlit"/>
 </a>
  <!-- R -->
 <a>
