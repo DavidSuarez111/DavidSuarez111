@@ -54,7 +54,8 @@ Estoy entusiasmado de generar análisis y/o aplicaciones relevantes para la bioi
  <img decoding="async" src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="streamlit"/>
 </a>
  <!-- R -->
-<a>
+<br>
+  <a>
  <img decoding="async" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white" alt="R"/>
 </a>
 <a>
@@ -66,7 +67,7 @@ Estoy entusiasmado de generar análisis y/o aplicaciones relevantes para la bioi
 <a>
  <img decoding="async" src="https://img.shields.io/badge/shiny-4BA3C3?style=for-the-badge&logo=R&logoColor=white" alt="shiny"/>
 </a>
-  
+ <br> 
   <img decoding="async" src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
   </a>
  <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
