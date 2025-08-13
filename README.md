@@ -31,14 +31,44 @@ Estoy entusiasmado de generar análisis y/o aplicaciones relevantes para la bioi
 
 ### :hammer_and_wrench: Lenguajes y herramientas :
 <div id="header" align="left">
-    <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
-  </a>
-    <img decoding="async" src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+    <!-- Python -->
+<a>
+ <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python"/>
+</a>
+<a>
+ <img decoding="async" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
+</a>
+<a>
+ <img decoding="async" src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy"/>
+</a>
+<a>
+ <img decoding="async" src="https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="matplotlib"/>
+</a>
+<a>
+ <img decoding="async" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+</a>
+ <!-- R -->
+<a>
+ <img decoding="async" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white" alt="R"/>
+</a>
+<a>
+ <img decoding="async" src="https://img.shields.io/badge/tidyverse-1A162D?style=for-the-badge&logo=R&logoColor=white" alt="tidyverse"/>
+</a>
+<a>
+ <img decoding="async" src="https://img.shields.io/badge/ggplot2-2E73B3?style=for-the-badge&logo=R&logoColor=white" alt="ggplot2"/>
+</a>
+<a>
+ <img decoding="async" src="https://img.shields.io/badge/shiny-4BA3C3?style=for-the-badge&logo=R&logoColor=white" alt="shiny"/>
+</a>
+  
+  <img decoding="async" src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
   </a>
  <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
   </a>
  <img decoding="async" src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
   </a>
+
+
 
 </div>
 
